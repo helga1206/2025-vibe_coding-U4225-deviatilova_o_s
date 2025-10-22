@@ -1,0 +1,48 @@
+# Файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Папки macOS
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Временные файлы Xcode
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/
+
+# Файлы сборки Xcode
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Файлы кэша
+*.swp
+*.swo
+*.swn
+
+# Локальные настройки
+.env
+.env.local
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Файлы отладки
+*.log
+*.out
+*.pid
+
