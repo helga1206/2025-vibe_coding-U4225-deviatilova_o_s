@@ -10,6 +10,8 @@ Date of finished: 23.10.2025
 
 # "Создание первого Telegram-бота без программирования"
 
+Ссылка на видео с функционалом бота: [ссылка](https://drive.google.com/file/d/15WVbYXnXbuRPaFagLEBohCt_1KBYmwvu/view?usp=share_link)
+
 ## 1. Выбрала бота: 4. Бот-агрегатор информации
 
 Собирает новости по определенным темам
